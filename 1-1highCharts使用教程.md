@@ -12,13 +12,13 @@ Highcharts 系列软件包含 Highcharts JS，Highstock JS，Highmaps JS 共三�
 
 Highcharts 支持的图表类型有直线图、曲线图、区域图、柱状图、饼状图、散状点图、仪表图、气泡图、瀑布流图等多达 20 种图表，其中很多图表可以集成在同一个图形中形成混合图。
 
-![屏幕快照 2018-01-16 下午5.00.22](/Users/dengwei/app/webTree/articles/highCharts/屏幕快照 2018-01-16 下午5.00.22.png)
+![hcharts](/Users/dengwei/app/webTree/articles/highcharts_study/images/hcharts.png)
 
 #### Highstock
 
 Highstock 是用纯 JavaScript 编写的股票图表控件，可以开发股票走势或大数据量的时间轴图表。它包含多个高级导航组件：预设置数据时间范围，日期选择器、滚动条、平移、缩放功能。
 
-![屏幕快照 2018-01-16 下午5.00.39](/Users/dengwei/app/webTree/articles/highCharts/屏幕快照 2018-01-16 下午5.00.39.png)
+![highstock](/Users/dengwei/app/webTree/articles/highcharts_study/images/highstock.png)
 
 #### Highmaps
 
@@ -26,9 +26,9 @@ Highmaps 是一款基于 HTML5 的优秀地图组件。
 
 Highmaps 继承了 Highcharts 简单易用的特性，利用它可以方便快捷的创建用于展现销售、选举结果等其他与地理位置关系密切的交互性地图图表。
 
-![屏幕快照 2018-01-16 下午5.01.19](/Users/dengwei/app/webTree/articles/highCharts/屏幕快照 2018-01-16 下午5.01.19.png)
 
 
+![highmaps](/Users/dengwei/app/webTree/articles/highcharts_study/images/highmaps.png)
 
 #### 相关之间的关系
 
